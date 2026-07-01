@@ -27,7 +27,7 @@ This repository contains a fully functional **autonomous agent** that:
 
 ### Installation
 ```bash
-git clone https://github.com/tahee-labs/sphere-agent-starter.git
+git clone https://github.com/xuilend/sphere-agent-starter.git
 cd sphere-agent-starter
 npm install
 ```
@@ -130,7 +130,7 @@ npm run dev    # Hot reload with nodemon
 ### Production (VPS)
 ```bash
 # On your VPS
-git clone https://github.com/tahee-labs/sphere-agent-starter.git
+git clone https://github.com/xuilend/sphere-agent-starter.git
 cd sphere-agent-starter
 npm install
 npm start
@@ -149,7 +149,7 @@ cloudflared tunnel --url http://localhost:3000
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/tahee-labs/sphere-agent-starter.git
+   git clone https://github.com/xuilend/sphere-agent-starter.git
    cd sphere-agent-starter
    npm install
    ```
@@ -184,7 +184,7 @@ cloudflared tunnel --url http://localhost:3000
 
 ## 📞 Contact & Links
 
-- **GitHub:** https://github.com/tahee-labs/sphere-agent-starter
+- **GitHub:** https://github.com/xuilend/sphere-agent-starter
 - **Unicity Portal:** https://developers.unicity.network
 - **Sphere SDK Docs:** https://github.com/unicity-sphere/sphere-sdk
 - **Discord:** Unicity Community
